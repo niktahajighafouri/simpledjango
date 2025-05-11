@@ -6,28 +6,12 @@ info:
   description: مستندات API پروژه جنگوی شما با GraphQL
   version: 1.0.0
 
-targetDir: public/public
+
 
 theme:
   primaryColor: "#0d9488"
 
 
 #outputDir: ./graphql-docs  # پوشه‌ای که مستندات HTML داخلش تولید میشه
-#outputDir: graphql-docs
-#outputDir: "./public/"
-#introspection:
-#  url: http://localhost:8000/graphql/
-#
-#outputDir: graphql-docs
-#
-#info:
-#  title: "مستندات GraphQL "
-#  description: "توضیحات مربوط به API GraphQL پروژه Golingu"
-
-
-#outputDir: ./public/
-##outputDir: ./templates/graphql-docs  # پوشه‌ای که مستندات HTML داخلش تولید میشه
-#outputDir: ./templates/documentation/graphql/  # پوشه‌ای که مستندات HTML داخلش تولید میشه
-###outputDir: templates/documentation/graphql
 ##output:
 ##  path: templates/docs/
