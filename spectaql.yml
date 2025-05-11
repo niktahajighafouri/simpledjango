@@ -1,0 +1,17 @@
+introspection:
+  url: http://localhost:8000/graphql/
+info:
+  title: "My API Documentation"
+  description: "This is the consolidated API documentation for my Django project."
+  version: "1.0.0"
+
+output:
+  path: "templates/graphdoci"
+
+static:
+  css:
+    - "static/css/style1.css"
+  js:
+    - "static/js/script1.js"
+theme:
+  primaryColor: "#0d9488"

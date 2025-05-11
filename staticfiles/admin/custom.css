@@ -1,0 +1,20 @@
+/* تغییر رنگ پس‌زمینه نوار بالای پنل ادمین */
+#header {
+    background-color: #6b2eb6; /* بنفش */
+}
+
+/* تغییر رنگ پس‌زمینه فرم‌ها */
+fieldset.module.aligned {
+    background-color: #D8BFD8; /* بنفش روشن */
+}
+
+/* تغییر رنگ دکمه‌ها */
+button, .submit-row input {
+    background-color: #572ea2; /* بنفش */
+    color: white;
+}
+
+/* تغییر رنگ متن‌ها */
+#content-main h1 {
+    color: #7745c2;
+}
