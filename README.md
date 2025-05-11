@@ -1,6 +1,12 @@
 # simpledjango
  graphql
 
+![alt text](readme/image-102.png)
+
+![alt text](readme/image-100.png)
+
+![alt text](readme/image-101.png)
+
 # 🔐 GraphQL JWT Authentication System - Documentation
 
 این پروژه یک سیستم احراز هویت با استفاده از GraphQL و JWT است که شامل امکانات ثبت‌نام، ورود، دریافت توکن، رفرش توکن، و دریافت اطلاعات کاربر لاگین‌شده می‌باشد.
@@ -397,3 +403,18 @@ variabels:
 
 
 
+# 12 future product:
+
+![alt text](readme/image-103.png)
+
+![alt text](readme/image-104.png)
+
+![alt text](readme/image-105.png)
+
+![alt text](readme/image-106.png)
+
+![alt text](readme/image-107.png)
+
+![alt text](readme/image-108.png)
+
+![alt text](readme/image-109.png)
